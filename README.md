@@ -34,7 +34,10 @@ I build web solutions using the MERN stack and enjoy solving problems, learning 
 - Email: digambar14062004@gmail.com  
 - Phone: +91-7088323289  
 - Location: Magtae Hathras, Uttar Pradesh, India  
-- Let’s connect on [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/digambar-singh-969878250/)), [GitHub](https://github.com](https://github.com/digambasingh)), or [Instagram](https://www.instagram.com](https://www.instagram.com/digambar6960/))
+- Let’s connect on [LinkedIn](https://www.linkedin.com/in/digambar-singh-969878250/), 
+  [GitHub](https://github.com/digambasingh), or 
+  [Instagram](https://www.instagram.com/digambar6960/)
+
 
 ---
 
